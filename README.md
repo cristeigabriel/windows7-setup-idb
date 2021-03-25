@@ -1,5 +1,5 @@
 # windows7-setup-idb
-Maybe you find something relevant. This is only the setup file.
+Maybe you find something relevant. This is only the setup file. Not absolutely complete but it's mostly readable.
 
 [microsoft.com](https://www.microsoft.com)
 
